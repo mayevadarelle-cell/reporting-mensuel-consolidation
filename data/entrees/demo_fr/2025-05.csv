@@ -1,0 +1,12 @@
+compte;libelle;debit;credit
+7010;Ventes de produits finis;;548210,45
+7060;Ventes intragroupe;;43797,56
+7080;Prestations diverses;;11719,73
+6010;Achats de matières;222856,74;
+6110;Services intragroupe;15074,76;
+6410;Salaires;97145,91;
+6450;Charges sociales;37822,66;
+6130;Loyers;18270,16;
+6260;Frais postaux;4102,30;
+6811;Dotations aux amortissements;21404,53;
+6610;Intérêts d'emprunts;5993,56;

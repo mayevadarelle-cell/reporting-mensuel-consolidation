@@ -1,0 +1,28 @@
+filiale,compte,libelle,nature,poste,partenaire
+DEMO_FR,7010,Ventes de produits finis,produit,CA,
+DEMO_FR,7060,Ventes intragroupe,produit,INTRA_PRODUIT,DEMO_BE
+DEMO_FR,7080,Prestations diverses,produit,AUTRES_PRODUITS,
+DEMO_FR,6010,Achats de matières,charge,ACHATS,
+DEMO_FR,6110,Services intragroupe,charge,INTRA_CHARGE,DEMO_SV
+DEMO_FR,6410,Salaires,charge,PERSONNEL,
+DEMO_FR,6450,Charges sociales,charge,PERSONNEL,
+DEMO_FR,6130,Loyers,charge,EXTERNES,
+DEMO_FR,6260,Frais postaux,charge,EXTERNES,
+DEMO_FR,6811,Dotations aux amortissements,charge,DOTATIONS,
+DEMO_FR,6610,Intérêts d'emprunts,charge,FINANCIER,
+DEMO_BE,700000,Sales of goods,produit,CA,
+DEMO_BE,604000,Intercompany purchases,charge,INTRA_CHARGE,DEMO_FR
+DEMO_BE,600000,Raw materials,charge,ACHATS,
+DEMO_BE,620000,Wages,charge,PERSONNEL,
+DEMO_BE,621000,Social security,charge,PERSONNEL,
+DEMO_BE,613000,Rent,charge,EXTERNES,
+DEMO_BE,614000,Office expenses,charge,EXTERNES,
+DEMO_BE,630000,Depreciation,charge,DOTATIONS,
+DEMO_BE,650000,Interest expense,charge,FINANCIER,
+DEMO_SV,7050,Prestations clients,produit,CA,
+DEMO_SV,7061,Prestations intragroupe,produit,INTRA_PRODUIT,DEMO_FR
+DEMO_SV,6040,Sous-traitance,charge,ACHATS,
+DEMO_SV,6411,Rémunérations,charge,PERSONNEL,
+DEMO_SV,6130,Loyer,charge,EXTERNES,
+DEMO_SV,6280,Divers,charge,EXTERNES,
+DEMO_SV,6812,Dotations aux amortissements,charge,DOTATIONS,
